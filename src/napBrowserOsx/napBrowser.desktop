@@ -1,0 +1,8 @@
+[Desktop Entry]
+Encoding=UTF-8
+Version=1.0
+Name=napBrowser
+Exec=/home/szeryf/napBrowser/nap.sh
+Terminal=false
+Icon=/home/szeryf/napBrowser/icon.ico
+Type=Application
